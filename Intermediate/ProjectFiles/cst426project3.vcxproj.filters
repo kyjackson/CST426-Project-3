@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\cst426project3.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FF1EC550-CEC7-43D2-80C3-AD8A1E3756D1}</UniqueIdentifier>
+      <UniqueIdentifier>{24BA45DA-072C-48CB-8AF6-12EB2F894501}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\cst426project3.Target.cs">
       <Filter>Source</Filter>
@@ -15,7 +15,7 @@
     <None Include="..\..\.gitignore" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{ACF63522-2230-4EAB-A42F-6FAF74C7782D}</UniqueIdentifier>
+      <UniqueIdentifier>{72E16792-2FF1-4068-8778-CB5A0E483F72}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -33,22 +33,22 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{22EAC560-5A25-40CE-92A7-E2F64200AFCF}</UniqueIdentifier>
+      <UniqueIdentifier>{8E088BDD-CDD3-4FB2-8543-4FB1FE0A5E4A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\AdvancedSessions">
-      <UniqueIdentifier>{48F8414E-67CD-4344-94F5-9C5C34A6FEAB}</UniqueIdentifier>
+      <UniqueIdentifier>{9CAF4321-3434-431D-998F-A1D25F7719E6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\AdvancedSessions\Source">
-      <UniqueIdentifier>{8AF04EA8-9657-4892-B658-A186294D25D8}</UniqueIdentifier>
+      <UniqueIdentifier>{B998C41D-E83A-4415-9EB6-2DCB4F436FD1}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions">
-      <UniqueIdentifier>{031C497F-4800-428D-83E3-61EDC378061E}</UniqueIdentifier>
+      <UniqueIdentifier>{33A8A388-0566-43A1-9585-310142677A21}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs">
       <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions</Filter>
     </None>
     <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions\Classes">
-      <UniqueIdentifier>{6B2A09EA-83A1-48A1-BB85-FFDB01119FAA}</UniqueIdentifier>
+      <UniqueIdentifier>{4272B92C-CB3F-427B-BA28-BC288CF7C6CD}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h">
       <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
@@ -120,7 +120,7 @@
       <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
     </ClInclude>
     <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions\Private">
-      <UniqueIdentifier>{0FD1373A-3A28-4F99-BB85-43B0C547154B}</UniqueIdentifier>
+      <UniqueIdentifier>{FD1F730C-FA86-4310-A56E-AF55F079F3A9}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedExternalUILibrary.cpp">
       <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
@@ -186,34 +186,34 @@
       <Filter>Plugins\AdvancedSessions</Filter>
     </None>
     <Filter Include="Plugins\AdvancedSessions\Resources">
-      <UniqueIdentifier>{ADC08CD3-3789-4635-9052-D6E4C2118632}</UniqueIdentifier>
+      <UniqueIdentifier>{7EA97168-B5C6-4C2F-8CB3-06A33BF4729D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\AdvancedSessions\Resources\Icon128.png">
       <Filter>Plugins\AdvancedSessions\Resources</Filter>
     </None>
     <Filter Include="Plugins\AdvancedSteamSessions">
-      <UniqueIdentifier>{E56022EB-A1FB-4FF9-9561-B1C42992F3BD}</UniqueIdentifier>
+      <UniqueIdentifier>{8287A849-4016-498D-8BE8-78AD7E8C8657}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\AdvancedSteamSessions\AdvancedSteamSessions.uplugin">
       <Filter>Plugins\AdvancedSteamSessions</Filter>
     </None>
     <Filter Include="Plugins\AdvancedSteamSessions\Resources">
-      <UniqueIdentifier>{4A72F7E7-923E-4E37-AA80-A1619B27DF6E}</UniqueIdentifier>
+      <UniqueIdentifier>{EC24F086-2E9C-489E-AA05-2B75C1B77667}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\AdvancedSteamSessions\Resources\Icon128.png">
       <Filter>Plugins\AdvancedSteamSessions\Resources</Filter>
     </None>
     <Filter Include="Plugins\AdvancedSteamSessions\Source">
-      <UniqueIdentifier>{83AF8174-1F1E-443B-B12B-6870549DA5B8}</UniqueIdentifier>
+      <UniqueIdentifier>{F03E2021-65D4-4A92-9DC0-4A1330581B53}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions">
-      <UniqueIdentifier>{565368AA-CB81-4032-9DFD-D3BD21BE04A4}</UniqueIdentifier>
+      <UniqueIdentifier>{A4E7240E-995C-4030-B6C2-027063FB0170}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs">
       <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions</Filter>
     </None>
     <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes">
-      <UniqueIdentifier>{F7A4BBFB-F003-4CFD-8A0B-3B9B666F0DA4}</UniqueIdentifier>
+      <UniqueIdentifier>{C1001C1E-E172-43D0-8762-7CC2C52B9559}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h">
       <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
@@ -231,7 +231,7 @@
       <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
     </ClInclude>
     <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private">
-      <UniqueIdentifier>{FE98F454-290D-4EEA-A1F9-A9693918560A}</UniqueIdentifier>
+      <UniqueIdentifier>{6FE7F0E9-A42A-4332-9EAD-32C8105E77F6}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamFriendsLibrary.cpp">
       <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
@@ -249,7 +249,7 @@
       <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
     </ClCompile>
     <Filter Include="Source\cst426project3">
-      <UniqueIdentifier>{ADA12DD3-EE00-48AF-95C3-6113E9A4C521}</UniqueIdentifier>
+      <UniqueIdentifier>{EB014BD0-58FD-4980-9597-D9ED753E3846}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\cst426project3\cst426project3.Build.cs">
       <Filter>Source\cst426project3</Filter>
@@ -273,7 +273,7 @@
       <Filter>Source\cst426project3</Filter>
     </ClInclude>
     <Filter Include="Source\cst426project3\TP_ThirdPerson">
-      <UniqueIdentifier>{D2CDCCBD-28ED-4F17-90C8-DABB5A935B0A}</UniqueIdentifier>
+      <UniqueIdentifier>{34C95FF5-39D4-4776-9E38-1B08114E43CD}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\cst426project3\TP_ThirdPerson\TP_ThirdPerson.h">
       <Filter>Source\cst426project3\TP_ThirdPerson</Filter>
